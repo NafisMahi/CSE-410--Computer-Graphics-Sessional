@@ -12,7 +12,7 @@ To install the necessary libraries for OpenGL on a Linux system, run the followi
 sudo apt update && sudo apt upgrade
 sudo apt install freeglut3-dev
 
-##Configuring OpenGL in VSCode
+Configuring OpenGL in VSCode
 
 To run OpenGL programs in VSCode, follow these steps:
 
@@ -34,14 +34,14 @@ Add the following lines to your tasks.json file:
     "-lglut"
 ],
 
-#Running OpenGL Programs in the Terminal
+Running OpenGL Programs in the Terminal
 To compile and run an OpenGL program from the terminal, use the following command:
 
 g++ <filename>.cpp -o <outputFilename> -lGL -lGLU -lglut
 ./<outputFilename>
 
 
-#Assignments
+Assignments
 Offline 1 (OpenGL Basics)
 
 Specification
