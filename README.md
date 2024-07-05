@@ -13,7 +13,7 @@ sudo apt install freeglut3-dev
 ```
 
 
-##Configuring OpenGL in VSCode
+## Configuring OpenGL in VSCode
 
 To run OpenGL programs in VSCode, follow these steps:
 
