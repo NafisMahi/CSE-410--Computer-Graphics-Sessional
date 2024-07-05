@@ -8,11 +8,9 @@ This repository contains all the assignments for the course CSE410.
 
 To install the necessary libraries for OpenGL on a Linux system, run the following commands in your terminal:
 
-```bash
-sudo apt update && sudo apt upgrade
-sudo apt install freeglut3-dev
 
-Configuring OpenGL in VSCode
+
+##Configuring OpenGL in VSCode
 
 To run OpenGL programs in VSCode, follow these steps:
 
