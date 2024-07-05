@@ -40,18 +40,3 @@ To compile and run an OpenGL program from the terminal, use the following comman
 
 g++ <filename>.cpp -o <outputFilename> -lGL -lGLU -lglut
 ./<outputFilename>
-
-
-## Assignments
-Offline 1 (OpenGL Basics)
-
-Specification
-Solution
-Offline 2 (Rasterization)
-
-Specification
-Solution
-Offline 3 (Ray Tracing)
-
-Specification
-Solution
